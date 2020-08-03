@@ -7,4 +7,4 @@
 
 <br>
 
-![Github](https://github.com/Tahahaha7/Greenhouse_Emissions_Algeria/blob/master/sahara_the_greatest_desert.jpg)
+![Github](https://github.com/Tahahaha7/High_Resolution_Demographics_Algeria/blob/master/algeria.png)
