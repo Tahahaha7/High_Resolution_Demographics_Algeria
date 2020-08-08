@@ -7,4 +7,4 @@
 
 <br>
 
-![Github](https://github.com/Tahahaha7/High_Resolution_Demographics_Algeria/blob/master/algeria.png)
+![Github](https://github.com/Tahahaha7/High_Resolution_Demographics_Algeria/blob/master/Algeria%20-%20Q.jpg)
